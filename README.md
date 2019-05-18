@@ -1,2 +1,2 @@
 # hello_github
-first lean 
+first learn
