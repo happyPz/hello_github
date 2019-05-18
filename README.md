@@ -1,2 +1,2 @@
 # hello_github
-first learn
+first learn github
